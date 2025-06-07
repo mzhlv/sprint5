@@ -78,4 +78,3 @@ func (t Training) ActionInfo() (string, error) {
 		return "", errors.New("неизвестный тип тренировки")
 	}
 }
-у
